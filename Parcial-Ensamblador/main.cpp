@@ -1,3 +1,8 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include "code.hh"
+
 int main() {
     ProcesadorCodigo procesador;
     vector<string> codigoFuente;
